@@ -16,6 +16,7 @@ const allowedOrigins = [
   'https://sunny-pastelito-8843b7.netlify.app',
   'https://graw.netlify.app',
   'https://jhvnb.vercel.app',
+  'https://drachs.netlify.app'
    // add all your trusted frontends here
 ];
 
